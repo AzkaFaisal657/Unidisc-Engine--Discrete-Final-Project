@@ -135,6 +135,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Combinations.cpp" />
     <ClCompile Include="Course.cpp" />
     <ClCompile Include="Faculty.cpp" />
     <ClCompile Include="main.cpp" />
@@ -146,6 +147,7 @@
     <ClCompile Include="UniversitySystem.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="Combinations.h" />
     <ClInclude Include="Course.h" />
     <ClInclude Include="Faculty.h" />
     <ClInclude Include="PrerequisiteGraph.h" />

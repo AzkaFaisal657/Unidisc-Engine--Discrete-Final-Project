@@ -1,6 +1,8 @@
+
 #include "UniversitySystem.h"
 #include "SetOperations.h"
 #include "Relations.h"
+#include "Combinations.h"
 #include <iostream>
 #include <string>
 using namespace std;
@@ -233,6 +235,12 @@ int main() {
             verifyPrerequisiteChain(system);
             break;
         case 7:
+            SetOperationsModule::demonstrateSetOperations();
+            break;
+        case 8:
+            RelationsModule::demonstrateRelations();
+            break;
+        case 9:
             system.displaySystemInfo();
             break;
         case 0:
