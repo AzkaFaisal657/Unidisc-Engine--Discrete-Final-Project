@@ -1,0 +1,10 @@
+R101,Lecture Hall,100,Available
+R102,Lecture Hall,100,Available
+R103,Lecture Hall,80,Available
+R104,Lecture Hall,80,Available
+L201,Computer Lab,40,Available
+L202,Computer Lab,40,Available
+L203,AI Lab,30,Available
+L204,Software Lab,35,Available
+S301,Seminar Room,50,Available
+S302,Seminar Room,50,Available

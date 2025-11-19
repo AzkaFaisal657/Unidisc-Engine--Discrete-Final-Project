@@ -136,21 +136,29 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="Combinations.cpp" />
+    <ClCompile Include="ConflictDetector.cpp" />
     <ClCompile Include="Course.cpp" />
     <ClCompile Include="Faculty.cpp" />
+    <ClCompile Include="FileHandler.cpp" />
+    <ClCompile Include="GUI.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="PrerequisiteGraph.cpp" />
     <ClCompile Include="Relations.cpp" />
     <ClCompile Include="Relations.h" />
+    <ClCompile Include="Room.cpp" />
     <ClCompile Include="SetOperations.cpp" />
     <ClCompile Include="Student.cpp" />
     <ClCompile Include="UniversitySystem.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Combinations.h" />
+    <ClInclude Include="ConflictDetector.h" />
     <ClInclude Include="Course.h" />
     <ClInclude Include="Faculty.h" />
+    <ClInclude Include="FileHandler.h" />
+    <ClInclude Include="GUI.h" />
     <ClInclude Include="PrerequisiteGraph.h" />
+    <ClInclude Include="Room.h" />
     <ClInclude Include="SetOperations.h" />
     <ClInclude Include="Student.h" />
     <ClInclude Include="UniversitySystem.h" />
